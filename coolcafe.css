@@ -1,0 +1,98 @@
+body {
+  font-family:'open-sans', sans-serif;
+  color:black;
+}
+
+a {
+  color:white;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+html, body {
+    height:100%;
+}
+
+#logo {
+  font-style: italic;
+  font-weight: bold;
+  margin-top:30px;
+
+}
+
+.jumbotron {
+  background-color: white;
+}
+
+.carousel-inner {
+  padding:200px;
+}
+
+h1 {
+  text-align:center;
+  color:white;
+  font-weight: 600;
+
+}
+
+h2 {
+    text-align:center;
+    color:white;
+    font-weight: 600;
+
+}
+
+h3 {
+  color:black;
+  margin: 30px 30px;
+  text-align:center;
+
+}
+
+.nav-link {
+  margin-left:30px;
+  margin-top:30px;
+
+}
+
+.container-fluid {
+  background-image:url("cafestaff.jpg");
+
+  height:700px;
+  -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+ background-size: cover;
+}
+
+.card-title {
+  text-align:center;
+  color:grey;
+  padding:20px 20px;
+  font-weight:500;
+}
+
+.card-body {
+  text-align:center;
+  color:grey;
+  padding-top:5px;
+  border:none;
+}
+
+.icons {
+  color:black;
+  background-color: white;
+  align-items: center;
+}
+
+
+#footer {
+  padding: 20px 20px;
+  background-color:black;
+  color:grey;
+  text-align:center;
+  font-weight: 400;
+
+}
